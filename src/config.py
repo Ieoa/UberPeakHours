@@ -5,5 +5,5 @@ load_dotenv()
 
 BQ_PROJECT = os.getenv("BQ_PROJECT", "default_project")
 
-DEFAULT_START = "2023-01-01"
-DEFAULT_END = "2023-12-31"
+DEFAULT_START = "2024-01-01"
+DEFAULT_END = "2024-12-31"
